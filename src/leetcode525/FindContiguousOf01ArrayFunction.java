@@ -1,4 +1,4 @@
-package contiguous;
+package leetcode525;
 
 import java.util.HashMap;
 import java.util.Map;
