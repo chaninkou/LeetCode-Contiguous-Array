@@ -17,7 +17,7 @@ public class FindContiguousOf01ArrayFunction {
 		int sum = 0;
 		int max = 0;
 
-		// Whenever sum get add up to 0, we know we should add
+		// Whenever sum get add up to 0, we know we should add 
 		map.put(0, -1);
 
 		for (int i = 0; i < nums.length; i++) {
